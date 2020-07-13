@@ -1,0 +1,30 @@
+Expiration Volume [L] : 2.668035
+Inspiration Volume [L] : 4.714317
+Tidal Volume [L]: 2.046282
+--------------------------------------------------------
+Clusters : 
+Normal [L] (Green): 4.046693
+Recruitment [L] (Light Blue): 0.256737
+Trapping [L] (Orange): 0.464027
+Emphysema [L] (Red): 0.072708
+--------------------------------------------------------
+Ventilation; Mean [delta mm3]: 0.643109583745
+Ventilation; Median [delta mm3]: 0.601463875579
+Ventilation; Standart Deviation: 0.290430649239
+Ventilation; Kurtosis Fisher: 12.8579040376
+Ventilation; Kurtosis Pearson: 15.8579040376
+Ventilation; Skewness: 2.12568417999
+--------------------------------------------------------
+Density Change; Mean [delta HU]: 138.032034516
+Density Change; Median [delta HU]: 122.354445735
+Density Change; Standart Deviation: 74.6727718907
+Density Change; Kurtosis Fisher: 3.8436262991
+Density Change; Kurtosis Pearson: 6.8436262991
+Density Change; Skewness: 1.57614926623
+--------------------------------------------------------
+Distance; Mean [delta mm]: 16.5655707003
+Distance; Median [delta mm]: 15.3425556887
+Distance; Standart Deviation: 7.82884401544
+Distance; Kurtosis Fisher: 0.253283511278
+Distance; Kurtosis Pearson: 3.25328351128
+Distance; Skewness: 0.718160667895
